@@ -1,0 +1,4 @@
+baseURL = 'https://www.leojvainio.com'
+languageCode = 'en-us'
+title = 'My name is Leo Vainio'
+theme = "ananke"
